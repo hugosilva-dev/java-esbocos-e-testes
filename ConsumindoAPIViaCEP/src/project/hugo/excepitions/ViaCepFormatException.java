@@ -1,4 +1,4 @@
-package projects.hugo.excepitions;
+package project.hugo.excepitions;
 
 public class ViaCepFormatException extends RuntimeException {
     public ViaCepFormatException(String s) {

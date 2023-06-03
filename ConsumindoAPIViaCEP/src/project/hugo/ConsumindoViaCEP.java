@@ -1,4 +1,4 @@
-package projects.hugo;
+package project.hugo;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

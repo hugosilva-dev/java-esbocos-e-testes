@@ -1,7 +1,7 @@
-package projects.hugo;
+package project.hugo;
 
-import projects.hugo.excepitions.ViaCepException;
-import projects.hugo.excepitions.ViaCepFormatException;
+import project.hugo.excepitions.ViaCepException;
+import project.hugo.excepitions.ViaCepFormatException;
 
 import java.util.Objects;
 
