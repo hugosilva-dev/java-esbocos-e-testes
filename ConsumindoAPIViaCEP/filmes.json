@@ -1,0 +1,26 @@
+[
+  {
+    "Title": "Titanic",
+    "Year": 1997,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 194
+  },
+  {
+    "Title": "Minions",
+    "Year": 2015,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 91
+  },
+  {
+    "Title": "Matrix",
+    "Year": 1993,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 60
+  }
+]
