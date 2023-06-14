@@ -1,5 +1,6 @@
 package question02;
 
+import java.util.Comparator;
 import java.util.Scanner;
 
 public class DistanceOfPointsXYZ {
@@ -24,6 +25,7 @@ public class DistanceOfPointsXYZ {
                 (Math.pow((xB - xA), 2)) + (Math.pow((yB - yA), 2)) + (Math.pow((zB - zA), 2))
         );
         System.out.printf("Distance = %.2f", distance);
+
 
     }
 }
