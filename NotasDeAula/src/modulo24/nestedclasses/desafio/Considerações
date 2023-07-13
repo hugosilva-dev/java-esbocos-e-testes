@@ -1,0 +1,6 @@
+A classe ItemPedido pode ser uma classe aninhada não-estática pelos seguintes
+motivos:
+
+1 - Apresenta um comportamento de membro de instância;
+2 - A instância da classe aninhada fica vinculada à instância da classe sup.;
+3 - Tem acesso às variáveis da classe superior.
